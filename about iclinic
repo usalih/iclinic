@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head>
+<meta name="viewport"
+Content="width=device-width, initial scale=1">
+<title>iClinic</title>
+<style>
+header{
+    color:rgb(12, 79, 102);
+    align-content: center;
+    text-align: center;
+    background-color: lightskyblue;
+    font-size:150%;
+    font-weight:bold;
+    }
+form{
+    background-color:rgb(62, 142, 179);
+       filter: brightness(90%);
+       filter:transparent(8px);
+       border-radius: 6px;
+float: center;
+color:rgb(7, 58, 75);
+padding: 50px 80px 50px 80px;
+margin:auto;
+width:300px;
+padding:20px;
+align-content:center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+}
+input[type=button], select{
+    width: 30%;
+	padding: 10px 25px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid lightblue;
+	border-radius: 4px;
+	box-sizing: border-box;
+	box-shadow: 4px;
+    }
+</style>
+</head>
+<body>
+<header>
+<h1>iClinic</h1>
+</header>
+<form>
+    <h2>About iClinic</h2>
+    <p>iClinic is an online platform where registered patients and doctors(employed or not)  book appointements of meetings. Patients would be able to describe the illness and ilness type and a specialist doctor in that area would be able to attend to them and book appoinents</p>    
+    <h2>Aims and Objectives</h2>
+    <ul>
+        <l1>1. To make appointment with Doctors easy</l1><br>
+        <l1>2. To provide a means of income for unemployed doctors (Qualified only)</l1><br>
+        <l1>3. To help Patients meets Doctors easily without stress</l1><br>
+    </ul>
+</div.about>
+<a href ="iclinic.solutionchallenge.html"><input type="button" value="Back">
+
+
+</body>
+</html>
