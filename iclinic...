@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head>
+<meta name="viewport"
+Content="width=device-width, initial scale=1">
+<title>iClinic</title>
+<style>
+header{
+    color:rgb(12, 79, 102);
+    align-content: center;
+    text-align: center;
+    background-color: lightskyblue;
+    font-size:150%;
+    font-weight:bold;
+    }
+input[type=button], select{
+    width: 95%;
+	padding: 10px 25px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid lightblue;
+	border-radius: 4px;
+	box-sizing: border-box;
+	box-shadow: 5px;
+    align-self: auto;
+}
+input[type=button]:hover {
+filter: brightness(95%);
+	box-shadow: 0px 2px 4px 0;
+}
+form{
+background-color:rgb(62, 142, 179);
+       filter: brightness(90%);
+       filter:transparent(8px);
+       border-radius: 6px;
+float: center;
+color:lightblue;
+padding: 50px 80px 50px 80px;
+margin:auto;
+width:300px;
+padding:20px;
+align-content:center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+font-weight: bold;
+}
+p{
+    text-emphasis: none;
+    text-align: center;
+}
+a{
+	color:rgb(12, 69, 88);
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+}
+footer{
+    color:rgb(16, 40, 48);
+    align-content: center;
+    text-align: center;
+    background-color: lightskyblue;
+    font-size:150%;
+    font-weight:bold;
+}
+
+</style>
+</head>
+<body>
+<header>
+<h1>iClinic</h1>
+</header>
+<hr>
+<div id="container">
+<form>
+ <a href ="docslogin.html"><input type="button" value="Log In as A Doctor">
+    <br>
+<a href ="pattlogin.html"><input type="button" value="Log In as A Patient">
+</form>
+<p><Strong>New here? Sign Up <a href="Signup.html">Here</a></Strong></p>
+
+</div>
+
+<hr>
+<footer>
+    <a href="terms and conditions.html">Terms & Conditions.</a>
+    <br>
+    <a href="abouticlinic.html">About iClinic</a>
+        <pre>This Project is of Group B of The DSC BUK Chapter Solution Challenge.
+        Contact us on: 08163581824</pre>
+</footer>
+
+
+</body>
+</html>
